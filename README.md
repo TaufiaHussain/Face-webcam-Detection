@@ -67,9 +67,11 @@ git commit -m "Add feature or fix issue"
 
 git push origin feature-name
 
-License
+License:
+
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Acknowledgments
+Acknowledgments:
+
 OpenCV Documentation: For pre-trained Haar Cascades and tutorials.
 Thanks to contributors and users for their valuable feedback.
