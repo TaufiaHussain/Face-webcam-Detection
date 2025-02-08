@@ -1,6 +1,9 @@
 Face Webcam Detection.
+
 A Python-based project for real-time detection of faces, eyes, and smiles using OpenCV. This project demonstrates how to use Haar Cascade classifiers for facial feature detection in both static images and live webcam feeds.
-Features
+
+Features:
+
 Real-time detection of:
 Faces: Highlighted with a blue rectangle.
 Eyes: Highlighted with green rectangles.
@@ -29,13 +32,14 @@ cd Face-webcam-Detection
 cd Face-webcam-Detection
 
 Run the detection script:
+
 python webcam_detection.py
 
-Files in the Repository
+Files in the Repository: 
 webcam_detection.py: Script for real-time detection using the webcam.
 face_eye_and_smile_detection.py: Script for detecting faces, eyes, and smiles in static images.
 
-How It Works
+How It Works?
 Detection Framework:
 
 The scripts utilize OpenCV’s pre-trained Haar Cascade classifiers for detecting:
